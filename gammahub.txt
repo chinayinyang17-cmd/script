@@ -8098,7 +8098,7 @@ end
         end
     end)
     local SEARCH_UUID = "792baf13-54a1-4663-92c4-1edd9da1e3e2"
-    local INVITE_UUID = "afb005f9-6e81-4e0a-8bb0-3555938a9658"
+    local INVITE_UUID = "21c07ca02a584654d4a39ba3b2bc80382fb74a13ec3b8d01780e076c355277d4"
     local function invokeTrade(userId, onResult)
         if not (SearchUserRemote and InviteRemote) then
             if onResult then onResult(false, "Remotes not ready") end
