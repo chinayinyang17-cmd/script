@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/s3vORFnU/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/chinayinyang17-cmd/script/refs/heads/main/Freezetradesab", true))()
